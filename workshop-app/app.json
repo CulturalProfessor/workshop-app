@@ -1,0 +1,16 @@
+{
+    "id": "57db020c-0a0b-4e63-a8b7-604e64219a4d",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Vinayak Sharma",
+        "homepage": "n/a",
+        "support": "n/a"
+    },
+    "name": "Workshop-App",
+    "nameSlug": "workshop-app",
+    "classFile": "WorkshopApp.ts",
+    "description": "Demo App for Workshop",
+    "implements": []
+}
